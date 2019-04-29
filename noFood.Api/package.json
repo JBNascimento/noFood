@@ -1,0 +1,24 @@
+{
+  "name": "nofood.api",
+  "version": "1.0.0",
+  "description": "Api construida em nodeJs para a utilização do app NoFood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JBNascimento/noFood.git"
+  },
+  "author": "JefNascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JBNascimento/noFood/issues"
+  },
+  "homepage": "https://github.com/JBNascimento/noFood#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4"
+  }
+}
